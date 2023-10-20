@@ -1,0 +1,13 @@
+.SB{
+    position: fixed;
+    top: 40px;
+    left: 20px;
+    border-radius: 20px;
+}
+
+.SB_SL{
+    width: 160px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 16px;
+}
